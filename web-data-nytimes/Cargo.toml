@@ -1,0 +1,7 @@
+[package]
+name = "nytimes"
+version = "0.1.0"
+authors = ["Chris Kellendonk <chriskellendonk@gmail.com>"]
+
+[dependencies]
+hyper = "0.6"
